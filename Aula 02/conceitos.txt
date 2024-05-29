@@ -14,4 +14,18 @@ Para transformar código em objetos, imagns, cores, o navegador usa uma ferramen
 Ela realiza o processo de renderização, que é tranformar código em objetos.
 
 Todo o arquivo html deve ser salvo com a extensão .html
-Para testar uma arquivo html, nós os abrimos em um navegador web( Chrome, Opera, Edge, Firefox, Safari, Yande, Brave, Tor...)
+Para testar uma arquivo html, nós os abrimos em um navegador web( Chrome, Opera, Edge, Firefox, Safari, Yande, Brave, Tor...) C
+Css, o que é?
+CSS- Cascade Style Sheet ( folha de estilo cascata)
+O CSS  é ultilizado para fazer formatação em páginas html.
+Fornatação só se faz em css, não em html, se fizer em html vc perd pontos no SEO
+lembrete: style é um css, ent dá para colocar indivualmente internamente, mas o ideal é colocar externamente para geral.
+Você pode aplicar o css de 3 formas:
+    -Arquivo externo de css
+    -Embutir o css na  tag head da página html
+    -Aplicar diretamemte na tag html desejada
+    Há também três elementos de aplicação:
+    -ID-indentificador, usamos hashtag#
+    -Class-classe, usamos ponto.
+    - tag-tag html.
+obs: o css está na biblioteca do navegador, não precisar baixado então

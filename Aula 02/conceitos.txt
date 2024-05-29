@@ -1,0 +1,17 @@
+-HTML (HyperText Markup Language- Linguagem de marcação de HyperTexto)
+- Os comandos HTML são chamados de tags.
+As tags são palavras chave que ficam cercadas pelos símbolos maior e menor <>. Ex.:<hr>.. <body>.. </body/>
+As tags são diididas em 2: tag simples e composta:
+A tag simples não precisa ser encerrada. Ex.:
+<hr> ... <br>... <img>... <meta> ...
+Já as tags compostas precisam ser encerradas. Ex:
+<body> ... </body> ... <title> ... </title> ..
+As tag tanto simples quanto composta possuem atributos (propriedades). Ex.:
+<img src="foto.jpg" alt= "Foto do cliente">
+
+<body background ="red"> ... </body>
+Para transformar código em objetos, imagns, cores, o navegador usa uma ferramenta chamada motor web.
+Ela realiza o processo de renderização, que é tranformar código em objetos.
+
+Todo o arquivo html deve ser salvo com a extensão .html
+Para testar uma arquivo html, nós os abrimos em um navegador web( Chrome, Opera, Edge, Firefox, Safari, Yande, Brave, Tor...)
